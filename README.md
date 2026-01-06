@@ -17,5 +17,6 @@ Using LaTeX for precision:
 1. Clone the repo: `git clone https://github.com/YOUR_USERNAME/LogicGate-Sim-Python.git`
 2. Run the script: `python src/logic_simulator.py`
 
+![Simulation Result](./assets/output.png)
 ---
 *Built as part of my R-2024 Engineering Curriculum.*
